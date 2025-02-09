@@ -1,0 +1,106 @@
+
+{
+  "mods": 
+  [
+    
+    {
+      "name": "base",
+      "enabled": true
+    },
+    
+    {
+      "name": "elevated-rails",
+      "enabled": false
+    },
+    
+    {
+      "name": "quality",
+      "enabled": false
+    },
+    
+    {
+      "name": "space-age",
+      "enabled": false
+    },
+    
+    {
+      "name": "air-filtering",
+      "enabled": true
+    },
+    
+    {
+      "name": "Command_and_Conquer_Low_Power_Alerts-016",
+      "enabled": true
+    },
+    
+    {
+      "name": "Command_and_Conquer_RedAlert_Sounds",
+      "enabled": true
+    },
+    
+    {
+      "name": "craft-under-mouse",
+      "enabled": true
+    },
+    
+    {
+      "name": "even-distribution",
+      "enabled": true
+    },
+    
+    {
+      "name": "Factorio-Tiberium",
+      "enabled": true
+    },
+    
+    {
+      "name": "flib",
+      "enabled": true
+    },
+    
+    {
+      "name": "GhostPlacerXpress",
+      "enabled": true
+    },
+    
+    {
+      "name": "informatron",
+      "enabled": true
+    },
+    
+    {
+      "name": "laserfence",
+      "enabled": true
+    },
+    
+    {
+      "name": "MaxRateCalculator",
+      "enabled": true
+    },
+    
+    {
+      "name": "Mining_Drones_2_CnC",
+      "enabled": true
+    },
+    
+    {
+      "name": "Mining_Drones_Remastered",
+      "enabled": true
+    },
+    
+    {
+      "name": "RPGsystem",
+      "enabled": true
+    },
+    
+    {
+      "name": "Structure_Destroyed",
+      "enabled": true
+    },
+    
+    {
+      "name": "YARM",
+      "enabled": true
+    }
+  ]
+}
