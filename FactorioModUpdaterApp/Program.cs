@@ -68,7 +68,7 @@ namespace FactorioModUpdaterApp
             var factorioVersion = settings.FactorioVersion;
             var modPortalApiService = new ModPortalApiService(factorioVersion, username, token);
 
-            var modsToIgnonre = settings.ModsToIgnonre;
+            var modsToIgnonre = settings.ModsToIgnore;
             if (modsToIgnonre == null)
                 modsToIgnonre = new List<string>() { "base" };
 

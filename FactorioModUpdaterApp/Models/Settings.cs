@@ -7,6 +7,6 @@
         public required string Username { get; set; }
         public required string Token { get; set; }
         public required string FactorioVersion { get; set; }
-        public List<string> ModsToIgnonre { get; set; }
+        public List<string> ModsToIgnore { get; set; }
     }
 }
