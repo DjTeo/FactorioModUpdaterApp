@@ -9,6 +9,6 @@ Then just double click the FactorioModUpdater.exe
 
 
 ### Requirements
-- You must have installed a .NET 8.0 Runtime.
+- You must have installed a [.NET 8.0 Runtime](https://aka.ms/dotnet-core-applaunch?missing_runtime=true&arch=x64&rid=win-x64&os=win10&apphost_version=8.0.12).
 - It needs a valid mod-list.json, you can find it on Factorio settings locaction (e.g. \AppData\Roaming\Factorio\mods).
 - It needs a valid username and token to download the mods from Mod Portal. You can find them at [Factorio Profile](https://www.factorio.com/profile) page.
